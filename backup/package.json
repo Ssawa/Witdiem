@@ -1,0 +1,11 @@
+{
+  "name"         : "witdiem-Aggregator",
+  "version"      : "0.0.1",
+  "description"  : "Aggregate content and put into database.",
+  "main"         : "app.js",
+  "author"       : "CJ DiMaggio",
+  "dependencies" : {
+  	"express"		: "~4.6.1",
+    "mongodb"       : "~1.4.7"
+    }
+}
